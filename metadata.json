@@ -1,0 +1,6 @@
+{
+  "name": "FacturaTime - Facturación de Horas con Control de Tiempos Perdidos",
+  "description": "Aplicación de facturación por cálculo de horas principales y deducción automática de horas perdidas, tarifa dinámica C$50, clientes, consecutivos y exportación PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
